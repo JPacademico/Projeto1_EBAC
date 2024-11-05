@@ -17,7 +17,9 @@ body, input, textarea{
 
 header{
     padding: 10px 16px;
-    background-image: url(/images/fundo.png);
+    background-image: url(/images/fundo2.jpg);
+    background-size: cover;
+    background-position: center;
     color: #fcfffd;
 }
 
